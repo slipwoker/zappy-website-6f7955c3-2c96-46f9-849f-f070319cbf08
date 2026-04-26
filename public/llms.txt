@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לחנות האונליין המובילה לטיולים ובידור לכל המשפחה! גלו חוויות בלתי נשכחות, הזמינו בקלות ותיהנו מהרפתקאות מדהימות בישראל ומחוצה לה. הצטרפו אלינו עוד היום!
+
+### חוויות
+https://example.com/experiences
+צללו לעולם של חוויות טיולים ובידור שלא תשכחו לעולם! מגוון פעילויות מרגשות לכל המשפחה, מטיולים בטבע ועד הרפתקאות עירוניות. הזמינו את החוויה הבאה שלכם בחנות האונליין שלנו.
+
+### הסיפור שלנו
+https://example.com/our-story
+הסיפור שלנו הוא סיפור של תשוקה לטיולים ואהבה לבידור משפחתי אמיתי. גלו מי אנחנו, מה מניע אותנו ולמה אלפי משפחות בוחרות בנו כשותפות לחוויות הטובות ביותר בחנות האונליין שלנו.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על טיולים, חוויות או הזמנות בחנות האונליין שלנו? צוות המומחים שלנו כאן בשבילכם! צרו קשר עכשיו ונעזור לכם לתכנן את ההרפתקה המשפחתית המושלמת הבאה שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ליובאוויטשער רופן- טיולים ובידור מכל הלב
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ליובאוויטשער רופן- טיולים ובידור מכל הלב
+
+### Category
+https://example.com/category/:slug
+מוצרים - ליובאוויטשער רופן- טיולים ובידור מכל הלב
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
